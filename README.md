@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Martin</h1>
-<h3 align="center">Actualmente estoy estudiando en la Universidad de Quilmes y buscando trabajo como desarrollador Fullstack</h3>
+<h3 align="center">Actualmente estoy estudiando en la Universidad de Quilmes y trabajo como desarrollador vb .net</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
